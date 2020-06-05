@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main()
+{
+int a = 1;
+int b = 100;
+char test[] = "tset";
+	int x = a+b;
+	printf("%s", test);
+	if (1)
+	{
+		;
+	}
+	else
+	{
+		;
+	}
+	else
+	{
+		;
+	}
+}

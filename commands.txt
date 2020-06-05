@@ -1,0 +1,4 @@
+yacc -d project.y
+lex project.l
+gcc -o test lex.yy.c y.tab.c
+./test < inp
